@@ -1,4 +1,4 @@
 # poc20-repo
-POC-21
+POC-20
  
 GitHub Actions → DockerHub → ArgoCD → EKS
